@@ -8,7 +8,7 @@ Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.
 ---
 
 <details>
-  <summary> 🌱 Resumo das Habilidades </summary>
+  <summary> Resumo das Habilidades </summary>
   <hr>
   
   💻 **Programação**: habilidades em HTML, CSS e Python  
@@ -34,7 +34,8 @@ Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
-  
+
+  <h2 align="center">Extra</h2>
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   
   <img width="12" />
