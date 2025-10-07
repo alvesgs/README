@@ -1,5 +1,7 @@
-<h1 align="left">Olá, tudo bem? Eu sou o Gustavo! 👋💻</h1>
-Sou um entusiasta de tecnologia e empreendedorismo, apaixonado por programação, marketing digital e design. Tenho experiência com HTML, CSS e Python, além de saber criar designs no Figma, Canva e WordPress. Também atuo com vendas e tráfego pago, unindo habilidades técnicas e estratégicas para gerar resultados.
+#Sobre Mim
+<h1 align="left">Olá, tudo bem? Eu sou Gustavo! 👋💻</h1>
+Atualmente estou fazendo curso de Técnico de Desenvolvimento de Sistemas no Senac (1 ano e meio)
+Gosto de tecnologia e empreendedorismo, apaixonado por programação, Tenho experiência com HTML, CSS e Python, além de saber criar designs no Figma, Canva e WordPress. Também atuo com vendas e tráfego pago, unindo habilidades técnicas e estratégicas para gerar resultados.
 
 Atualmente, estou explorando oportunidades onde posso aplicar meus conhecimentos em desenvolvimento web, marketing e design, criando soluções criativas e eficientes!
 
@@ -8,7 +10,7 @@ Além do lado tech, sou curioso, criativo e adoro aprender coisas novas todos os
 ---
 
 <details>
-  <summary> 🌱 Meu Cantinho de Estudos 🌱 </summary>
+  <summary> Resumo </summary>
 
   <hr>
   
@@ -19,9 +21,8 @@ Além do lado tech, sou curioso, criativo e adoro aprender coisas novas todos os
   (Aprendendo a criar interfaces, posts e materiais visuais atrativos)
 
   🌎 Marketing digital e vendas
-  (Estratégias de tráfego pago, Instagram Ads e campanhas de vendas)
+  (Estratégias de tráfego pago e Instagram Ads)
 
-  ✨ Evoluindo continuamente para unir tecnologia, design e marketing em soluções reais.
 
 </details>
 
@@ -38,10 +39,13 @@ Além do lado tech, sou curioso, criativo e adoro aprender coisas novas todos os
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 </div>
 
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_instagram/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_linkedin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alves.gustavosantana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-s-4b8712216/)
