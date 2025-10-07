@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu sou o Gustavo 👋💻</h1>
+<h1 align="left">Olá! Me chamo Gustavo 👋💻</h1>
 
 Atualmente estou cursando **Técnico de Desenvolvimento de Sistemas** no Senac (1 ano e meio).  
 Sou apaixonado por **tecnologia, programação e empreendedorismo**, com experiência em **HTML, CSS e Python**, além de criar designs no **Figma, Canva e WordPress**.  
