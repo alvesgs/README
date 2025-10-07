@@ -2,7 +2,6 @@
 
 Atualmente estou cursando **Técnico de Desenvolvimento de Sistemas** no Senac (1 ano e meio).  
 Sou apaixonado por **tecnologia, programação e empreendedorismo**, e tenho experiência com **HTML, CSS e Python**, além de criar designs no **Figma, Canva e WordPress**.  
-Também atuo com **vendas e marketing digital**, incluindo **tráfego pago e Instagram Ads**, unindo habilidades técnicas e estratégicas para gerar resultados reais.  
 
 Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.  
 
@@ -12,10 +11,10 @@ Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.
   <summary> 🌱 Resumo das Habilidades </summary>
   <hr>
   
-  💻 **Programação**: Aprimorando minhas habilidades em HTML, CSS e Python  
-  🎨 **Design**: Criando interfaces, posts e materiais visuais atrativos no Figma e Canva  
-  🌎 **Marketing e Vendas**: Estratégias de tráfego pago, Instagram Ads e WordPress  
-  ⚡ **Outros**: Experiência com Arduino IDE e desenvolvimento de projetos práticos
+  💻 **Programação**: habilidades em HTML, CSS e Python  
+  🎨 **Design**: Criar interfaces, posts e materiais visuais atrativos no Figma e Canva  
+  ⚡ **Automação**: Experiência com Arduino IDE e desenvolvimento de projetos científicos envolvendo robótica e IOT
+  
 </details>
 
 ---
