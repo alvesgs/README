@@ -40,6 +40,7 @@ Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.
   <img width="12" />
   
   ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  <img width="12" />
   
 </div>
 
