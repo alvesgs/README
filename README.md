@@ -1,51 +1,50 @@
-#Sobre Mim
-<h1 align="left">Olá, tudo bem? Eu sou Gustavo! 👋💻</h1>
-Atualmente estou fazendo curso de Técnico de Desenvolvimento de Sistemas no Senac (1 ano e meio)
-Gosto de tecnologia e empreendedorismo, apaixonado por programação, Tenho experiência com HTML, CSS e Python, além de saber criar designs no Figma, Canva e WordPress. Também atuo com vendas e tráfego pago, unindo habilidades técnicas e estratégicas para gerar resultados.
+<h1 align="left">Olá! Eu sou o Gustavo 👋💻</h1>
 
-Atualmente, estou explorando oportunidades onde posso aplicar meus conhecimentos em desenvolvimento web, marketing e design, criando soluções criativas e eficientes!
+Atualmente estou cursando **Técnico de Desenvolvimento de Sistemas** no Senac (1 ano e meio).  
+Sou apaixonado por **tecnologia, programação e empreendedorismo**, e tenho experiência com **HTML, CSS e Python**, além de criar designs no **Figma, Canva e WordPress**.  
+Também atuo com **vendas e marketing digital**, incluindo **tráfego pago e Instagram Ads**, unindo habilidades técnicas e estratégicas para gerar resultados reais.  
 
-Além do lado tech, sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.  
+Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.  
 
 ---
 
 <details>
-  <summary> Resumo </summary>
-
+  <summary> 🌱 Resumo das Habilidades </summary>
   <hr>
   
-  💻 Aprimorando minhas habilidades em programação
-  (Construindo uma base sólida em HTML, CSS e Python)
-
-  🎨 Desenvolvendo habilidades em design e criação de conteúdo
-  (Aprendendo a criar interfaces, posts e materiais visuais atrativos)
-
-  🌎 Marketing digital e vendas
-  (Estratégias de tráfego pago e Instagram Ads)
-
-
+  💻 **Programação**: Aprimorando minhas habilidades em HTML, CSS e Python  
+  🎨 **Design**: Criando interfaces, posts e materiais visuais atrativos no Figma e Canva  
+  🌎 **Marketing e Vendas**: Estratégias de tráfego pago, Instagram Ads e WordPress  
+  ⚡ **Outros**: Experiência com Arduino IDE e desenvolvimento de projetos práticos
 </details>
 
-<hr>
+---
+
+<h2 align="left">🛠️ Ferramentas & Tecnologias</h2>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
+  <img width="12" />
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  
-![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  <img width="12" />
+  ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 </div>
 
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alves.gustavosantana/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-s-4b8712216/)
+<h2 align="center">📱 Redes Sociais</h2>
+
+<p align="center">
+ <a href="https://www.instagram.com/alves.gustavosantana/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/gustavo-s-4b8712216/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+</p>
