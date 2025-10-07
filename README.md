@@ -14,6 +14,8 @@ Sou curioso, criativo e curto aprender coisas novas todos os dias 🚀.
   💻 **Programação:** habilidades em HTML, CSS e Python  
   🎨 **Design:** criação de interfaces, posts e materiais visuais atrativos no Figma e Canva  
   ⚡ **Automação & Robótica:** experiência com Arduino IDE e desenvolvimento de projetos científicos envolvendo robótica e IoT
+    ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+</div>
 </details>
 
 ---
