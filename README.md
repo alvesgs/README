@@ -34,9 +34,13 @@ Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
+  
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  
   <img width="12" />
+  
   ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  
 </div>
 
 ---
