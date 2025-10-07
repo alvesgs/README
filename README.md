@@ -3,7 +3,7 @@
 Atualmente estou cursando **Técnico de Desenvolvimento de Sistemas** no Senac (1 ano e meio).  
 Sou apaixonado por **tecnologia, programação e empreendedorismo**, com experiência em **HTML, CSS e Python**, além de criar designs no **Figma, Canva e WordPress**.  
 
-Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.  
+Sou curioso, criativo e curto aprender coisas novas todos os dias 🚀.  
 
 ---
 
@@ -33,10 +33,6 @@ Sou curioso, criativo e adoro aprender coisas novas todos os dias 🚀.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  <img width="12" />
-  ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-</div>
 
 ---
 
